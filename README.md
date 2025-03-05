@@ -1,7 +1,9 @@
 # Automated Web Scraper for Product & Price Data from an E-commerce Website.
 
+
 ## Summary
 This project involved building an automated web scraper to collect smartphone price data from an e-commerce website every 30 minutes during the Republic Day Sale. The collected data was analysed to understand pricing strategies across brands and price segments.
+
 
 ## Key Details
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Data Collection:** Automated web scraping using BeautifulSoup & Requests to extract smartphone prices and product details.
@@ -10,8 +12,10 @@ This project involved building an automated web scraper to collect smartphone pr
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•**Dataset Size:** 12,673 rows.
 
+
 ## Tech Stack
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Python (BeautifulSoup, Requests, Pandas, Matplotlib & Plotly)
+
 
 ## Analysis & Results
 ### Brand-wise Pricing Strategy:
@@ -24,9 +28,10 @@ This project involved building an automated web scraper to collect smartphone pr
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Mid-range & Upper Mid-range Models (₹10,000 – ₹30,000):** Discounts peaked in February, followed by January.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•** Premium Models (> ₹30,000):** Significant price reductions only at the end of January, with minimal discounts in February.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•**Premium Models (> ₹30,000):** Significant price reductions only at the end of January, with minimal discounts in February.
 
 **Insight:** Higher-priced smartphones tend to have shorter and less frequent discount periods, whereas low-end models see higher discounts post-sale.
+
 
 ### Impact:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **For Brands:** Smartphone companies can adjust their pricing strategies based on competitor trends to maximize profits.
