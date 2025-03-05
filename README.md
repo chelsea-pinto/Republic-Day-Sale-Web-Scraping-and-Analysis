@@ -5,7 +5,9 @@ This project involved building an automated web scraper to collect smartphone pr
 
 ## Key Details
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Data Collection:** Automated web scraping using BeautifulSoup & Requests to extract smartphone prices and product details.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Data Analysis:** Cleaning and exploration using Pandas, Matplotlib and Plotly to identify pricing trends.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•**	Dataset Size:** 12,673 rows.
 
 ## Tech Stack
